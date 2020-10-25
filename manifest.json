@@ -20,6 +20,6 @@
         "S_LOGIN": [12,14],
         "S_SPAWN_BUILD_OBJECT": 2,
         "S_SPAWN_COLLECTION": 4,
-        "S_SPAWN_DROPITEM": 8
+        "S_SPAWN_DROPITEM": 9
     }
 }
