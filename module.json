@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "bahaar-guide",
+    "author": "Yasukii, teralove, ZC",
+    "description": "Guide for Bahaar's Sanctum",
+    "version": "1/23/2019",
+    "options": {
+        "niceName": "Bahaar Guide",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/Yasukii/Bahaar-guide/master/"],
+    "supportUrl": "https://github.com/Yasukii/Bahaar-guide/issues"
+}
